@@ -1,4 +1,4 @@
-Hi 👋 My name is Anthony Robert Sandoval Veliz
+Hi 👋 My name is Anthony Sandoval
 ==============================================
 
 Mobile Engineer
