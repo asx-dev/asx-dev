@@ -4,7 +4,7 @@ Hi 👋 My name is Anthony Sandoval
 Mobile Engineer
 ---------------
 
-I'm a mobile engineer my specialty is develop cross platform applications using React Native and also I have a good understanding of IOS development using Swift.
+I'm a mobile engineer my specialty is develop cross platform applications using React Native and also I have a solid understanding of web fundamentals.
 
 * 🌍  I'm based in Spain, Canary Islands Tenerife
 * ✉️  You can contact me at [asxdev18@gmail.com](mailto:asxdev18@gmail.com)
