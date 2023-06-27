@@ -45,6 +45,4 @@ I'm asx-dev a mobile engineer my specialty is develop cross platform application
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/asx-dev"><img src="https://github-readme-stats.vercel.app/api?username=asx-dev&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="asx-dev's GitHub stats" /></a>
-
 <a href="http://www.github.com/asx-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asx-dev&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
