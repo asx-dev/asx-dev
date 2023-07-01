@@ -1,8 +1,6 @@
+![](https://github.com/asx-dev/Banner.gif)
 
-Hi 👋 My name is Anthony Sandoval
-=================================
-
-Mobile Engineer
+Anthony Sandoval / Mobile Engineer
 ---------------
 
 I'm asx-dev a mobile engineer and my specialty is to develop cross platform applications using React Native and also I have a good understanding of IOS development using Swift.
