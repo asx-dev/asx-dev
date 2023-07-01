@@ -1,4 +1,3 @@
-![](https://github.com/asx-dev/Banner.gif)
 
 Anthony Sandoval / Mobile Engineer
 ---------------
