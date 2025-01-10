@@ -28,18 +28,3 @@ Software engineer with experience in web and app development, specializing in **
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>
           
 </p>
-
-## 💬 Socials
-
-<p align="center"> 
-<a href="https://www.linkedin.com/in/anthony-software-engineer/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50"/></a>
-<a href="https://x.com/asxdev" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="50" height="50"/></a>
-</p>
-
-## Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/asx-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=asx-dev&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
