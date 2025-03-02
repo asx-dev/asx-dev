@@ -41,6 +41,8 @@ RESTful API built with Node.js and Express, designed to power an e-commerce plat
 
 ![](api.png)
 
+🌐 Check it out here 👉 [Postman Docs](https://documenter.getpostman.com/view/31079873/2sAYX5M3M8)
+
 ### Saas Website
 
 SaaS website designed to showcase a software-as-a-service product. Built with clean HTML and CSS, it features a mobile-friendly navigation menu powered by JavaScript, along with embedded media and CDN-based assets for optimized performance.
@@ -51,23 +53,16 @@ SaaS website designed to showcase a software-as-a-service product. Built with cl
 
 ![](saas.png)
 
+🌐 Check it out here 👉 [saas website](https://saas-wb.netlify.app/)
+
 ## 💻 Skills
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50" alt="HTML5" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50" alt="CSS3" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="50" height="50" alt="React" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="50" height="50" alt="Redux" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="50" height="50" alt="NodeJS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" width="50" height="50"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/>          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>
-          
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vite,react,redux,tailwind,bootstrap,nodejs,express,mongodb,postman,git,github,vscode,netlify,appwrite&perline=9" />
+  </a>
 </p>
+
+## 💬 Have a question? Click the link to get in touch
+
+📆 Schedule a meeting with me 👉 [meeting](https://cal.com/anthony-robert-sandoval-veliz-bsxsb5/15min)
